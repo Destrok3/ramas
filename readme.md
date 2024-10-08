@@ -12,3 +12,7 @@ git status
 # hacer git alias
 
 git config alias.st "status" --short"
+
+# ver contenido de las ramas
+
+git show <numero-hash>
